@@ -1,0 +1,6 @@
+{
+  "name": "Wafa Speed Tracker",
+  "description": "Live Speed. Smart Tracking. Every Journey. Professional GPS speedometer and trip tracker by Md. Mehedi Hasan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
