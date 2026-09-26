@@ -9,6 +9,9 @@
 > Portfolio: [https://mehedii364.github.io/](https://mehedii364.github.io/)  
 > GitHub: [https://github.com/Mehedi364](https://github.com/Mehedi364)  
 > Email: `useable.me2@gmail.com`
+>
+> 
+> DOWNLOAD LINK : https://github.com/Mehedii364/Wafaaspeedtracker/blob/main/APK_DOWNLOAD/app-debug.apk
 
 ---
 
